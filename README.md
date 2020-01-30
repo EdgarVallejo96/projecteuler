@@ -1,2 +1,4 @@
 # projecteuler
-Project Euler problems solved in different languages
+Project Euler problems solved in different programming languages
+
+pes = project euler solution
